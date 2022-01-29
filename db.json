@@ -4,6 +4,11 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "uaes": [
+    { "id": 1, "SN": "F101280AN3001", "result1": "result1", "result2": "result2", "result3": "result3", "result4": "result4", "result5": "result5" },
+    { "id": 2, "SN": "F101280D42004", "result1": "result1", "result2": "result2", "result3": "result3", "result4": "result4", "result5": "result5" },
+    { "id": 3, "SN": "F101280AN3003", "result1": "result1", "result2": "result2", "result3": "result3", "result4": "result4", "result5": "result5" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
